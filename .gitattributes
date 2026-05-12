@@ -1,0 +1,3 @@
+*.r linguist-detectable=true
+*.sql linguist-detectable=true
+*.ipynb linguist-detectable=false
