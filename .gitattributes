@@ -1,4 +1,3 @@
-
 *.html linguist-detectable=false
 *.R linguist-detectable=true
 *.sql linguist-detectable=true
