@@ -1,5 +1,9 @@
 # FIFA World Cup 2026 — Boston Fan Experience App
 
+## 🌐 Live Demo
+
+👉 [FIFA World Cup 2026 Fan APP](https://athena336.shinyapps.io/FIFA_WorldCup2026_Fan_APP/)
+
 An interactive R Shiny application that consolidates match schedules, 
 ticketing, transportation, lodging, and dining into a single fan 
 planning hub for games at Gillette Stadium, Foxborough MA.
